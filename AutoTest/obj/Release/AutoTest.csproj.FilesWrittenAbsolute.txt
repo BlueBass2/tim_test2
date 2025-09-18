@@ -1,6 +1,0 @@
-/home/runner/work/tim_test2/tim_test2/AutoTest/obj/Release/.NETFramework,Version=v4.8.AssemblyAttribute.cs
-/home/runner/work/tim_test2/tim_test2/AutoTest/bin/Release/AutoTest.exe.config
-/home/runner/work/tim_test2/tim_test2/AutoTest/bin/Release/AutoTest.exe.mdb
-/home/runner/work/tim_test2/tim_test2/AutoTest/bin/Release/AutoTest.exe
-/home/runner/work/tim_test2/tim_test2/AutoTest/obj/Release/AutoTest.exe
-/home/runner/work/tim_test2/tim_test2/AutoTest/obj/Release/AutoTest.exe.mdb

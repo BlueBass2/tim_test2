@@ -1,0 +1,23 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 2015/2017 cache/options
+.vs/
+
+# NuGet packages
+packages/
+
+# Debug files
+*.pdb
+*.mdb
+
+# Temporary files
+*.tmp
+*.temp
